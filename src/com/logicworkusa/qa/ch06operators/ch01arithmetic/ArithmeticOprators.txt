@@ -1,0 +1,32 @@
+Arithmetic Operations:
+---------------------------------------------------------
+
+1. Addition:
+Addition in Java is a basic arithmetic operation performed using the + operator. It's used to combine or sum two numerical values. For example, in the statement int sum = a + b;, the values stored in variables a and b are added together, and the result is stored in the variable sum.
+
+2. Subtraction:
+Subtraction in Java is carried out using the - operator. It's used to find the difference between two numerical values. For instance, in int difference = a - b;, the value of variable b is subtracted from the value of variable a, and the result is stored in the variable difference.
+
+3. Multiplication:
+Multiplication uses the * operator in Java. It's used to calculate the product of two numerical values. For example, int product = a * b; multiplies the values stored in variables a and b, and the result is stored in the variable product.
+
+4. Division:
+Division in Java uses the / operator. It's used to divide one numerical value by another and provides the quotient as the result. For instance, int quotient = a / b; divides the value of variable a by the value of variable b, and the quotient is stored in the variable quotient.
+
+5. Modulus (Remainder):
+The modulus operator % in Java calculates the remainder of the division of two numerical values. For example, int remainder = a % b; computes the remainder when the value of variable a is divided by the value of variable b.
+
+6. Increment Operator:
+The ++ operator in Java is used to increment the value of a variable by 1. For example, num++; increments the value of the variable num by 1.
+
+7. Decrement Operator:
+The -- operator in Java is used to decrement the value of a variable by 1. For instance, num--; decrements the value of the variable num by 1.
+
+8. Compound Assignment Operators:
+Compound assignment operators in Java, such as +=, combine an arithmetic operation with assignment. For example, value += 4; is equivalent to value = value + 4;, adding 4 to the current value stored in the variable value.
+
+10. Precedence and Parentheses:
+Operator precedence in Java determines the order in which operations are executed in an expression. Parentheses alter this order by specifying which operations should be performed first. For example, 5 + 3 * 7; and (5 + 3) * 7; illustrate how parentheses change the result by modifying the order of operations.
+
+9. Mixed Arithmetic Operations:
+Mixed arithmetic operations involve combining multiple arithmetic operations within a single expression. For instance, (a + b) * (a - b) / (a % b); demonstrates the combination of addition, subtraction, multiplication, division, and modulus operations.
